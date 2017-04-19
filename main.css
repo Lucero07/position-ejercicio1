@@ -1,0 +1,54 @@
+.cuadros {
+    width: 45%;
+    height: 45%;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1%;
+}
+#contenedor {
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    height: 600px;
+}
+
+#grande1 {
+    position: absolute;
+    top: 52.5%;
+    left: 25%;
+    background-color: blue;
+}
+
+#mediano1 {
+    position: absolute;
+    top: 25%;    left: 25%;
+    background-color: yellow;
+}
+
+#chico1 {
+    background-color: red;
+}
+
+#grande2 {
+ position: relative;
+ top: 2.5%;
+ left: 25%;
+    background-color: #ccc;
+}
+
+#mediano2 {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  background-color: #8904B1;
+}
+
+#chico2 {
+  position: relative;
+  width: 25%;
+  height: 25%;
+      background-color: blue;
+}
